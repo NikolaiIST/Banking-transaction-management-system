@@ -1,2 +1,4 @@
 # Banking-transaction-management-system
-banking transaction management application developed in C++. The application provides an intuitive and efficient command line interface (CLI) for carrying out various banking operations.
+The banking transaction management system is an application developed in C++ designed to provide efficient management of banking transactions. The project's main utility lies in its ability to facilitate everyday financial operations, allowing users to make deposits, withdrawals and transfers securely and quickly. The command line interface provides an intuitive experience, facilitating interaction even for those less familiar with more complex interfaces.
+
+In addition to the efficient execution inherent in the C++ language, the project stands out for its focus on accessibility and ease of use. Users can easily access detailed information about their accounts, including current balances and account holder details, providing a complete picture of their financial situation. The complete transaction history helps users track their financial activities over time, providing a valuable tool for informed decision making.
