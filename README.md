@@ -11,7 +11,7 @@ Here are some examples of what this project looks like:
 
 # How to Run
 
-You can execute Btms.exe or use an IDE with C++, i used DevC++, just press "Compile and Run" and everything should be okay.
+You can execute Btms.exe or use an IDE with C++. I used DevC++; simply press 'Compile and Run,' and it should start right away.
 
 # Contact
 
